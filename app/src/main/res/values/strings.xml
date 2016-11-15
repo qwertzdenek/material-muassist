@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Muassist</string>
+    <string name="app_name_full">Musician Assistant</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="metronome">Metronome</string>
+    <string name="recorder">Recorder</string>
+    <string name="tuner">Tuner</string>
+    <string name="tone">Tone Generator</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
